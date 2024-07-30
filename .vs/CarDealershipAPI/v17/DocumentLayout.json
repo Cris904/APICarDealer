@@ -1,0 +1,419 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\services\\implementations\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\services\\implementations\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\services\\interfaces\\isaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\services\\interfaces\\isaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\services\\implementations\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\services\\implementations\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\services\\implementations\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\services\\implementations\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\services\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\services\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\data\\cardealershipcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\data\\cardealershipcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\repositories\\interfaces\\isalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\repositories\\interfaces\\isalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\repositories\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\repositories\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\repositories\\implementations\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\repositories\\implementations\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\repositories\\implementations\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\repositories\\implementations\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|c:\\users\\analista.desarrollo\\desktop\\git\\cardealershipapi\\cardealershipapi\\repositories\\implementations\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B4B4AC-71F2-4E7E-A643-7CA9FD3E6701}|CarDealershipAPI\\CarDealershipAPI.csproj|solutionrelative:cardealershipapi\\repositories\\implementations\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "CarDealershipAPI\\Controllers\\CarsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:43:18.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\appsettings.json",
+              "RelativeToolTip": "CarDealershipAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T15:35:43.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Models\\Sale.cs",
+              "RelativeToolTip": "CarDealershipAPI\\Models\\Sale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:31:04.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Models\\Customer.cs",
+              "RelativeToolTip": "CarDealershipAPI\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:30:58.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Program.cs",
+              "RelativeToolTip": "CarDealershipAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:17:28.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISaleService.cs",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Services\\Interfaces\\ISaleService.cs",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\Services\\Interfaces\\ISaleService.cs",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Services\\Interfaces\\ISaleService.cs",
+              "RelativeToolTip": "CarDealershipAPI\\Services\\Interfaces\\ISaleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:06:31.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Services\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\Services\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Services\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "CarDealershipAPI\\Services\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:06:15.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaleService.cs",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Services\\Implementations\\SaleService.cs",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\Services\\Implementations\\SaleService.cs",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Services\\Implementations\\SaleService.cs",
+              "RelativeToolTip": "CarDealershipAPI\\Services\\Implementations\\SaleService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:05:58.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Services\\Implementations\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\Services\\Implementations\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Services\\Implementations\\CustomerService.cs",
+              "RelativeToolTip": "CarDealershipAPI\\Services\\Implementations\\CustomerService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:05:36.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ISaleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Repositories\\Interfaces\\ISaleRepository.cs",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\Repositories\\Interfaces\\ISaleRepository.cs",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Repositories\\Interfaces\\ISaleRepository.cs",
+              "RelativeToolTip": "CarDealershipAPI\\Repositories\\Interfaces\\ISaleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:05:18.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "CarDealershipAPI\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:05:01.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "CarDealershipAPI\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:04:29.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SaleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Repositories\\Implementations\\SaleRepository.cs",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\Repositories\\Implementations\\SaleRepository.cs",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Repositories\\Implementations\\SaleRepository.cs",
+              "RelativeToolTip": "CarDealershipAPI\\Repositories\\Implementations\\SaleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:03:47.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "CarDealershipAPI\\Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:03:12.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Repositories\\Implementations\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\Repositories\\Implementations\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Repositories\\Implementations\\CustomerRepository.cs",
+              "RelativeToolTip": "CarDealershipAPI\\Repositories\\Implementations\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:02:26.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Services\\Interfaces\\ICarService.cs",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\Services\\Interfaces\\ICarService.cs",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Services\\Interfaces\\ICarService.cs",
+              "RelativeToolTip": "CarDealershipAPI\\Services\\Interfaces\\ICarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:02:15.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Services\\Implementations\\CarService.cs",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\Services\\Implementations\\CarService.cs",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Services\\Implementations\\CarService.cs",
+              "RelativeToolTip": "CarDealershipAPI\\Services\\Implementations\\CarService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:01:54.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Repositories\\Interfaces\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\Repositories\\Interfaces\\ICarRepository.cs",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Repositories\\Interfaces\\ICarRepository.cs",
+              "RelativeToolTip": "CarDealershipAPI\\Repositories\\Interfaces\\ICarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:01:39.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Repositories\\Implementations\\CarRepository.cs",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\Repositories\\Implementations\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Repositories\\Implementations\\CarRepository.cs",
+              "RelativeToolTip": "CarDealershipAPI\\Repositories\\Implementations\\CarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:00:50.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Models\\Car.cs",
+              "RelativeToolTip": "CarDealershipAPI\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:00:47.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "CarDealershipAPI\\Controllers\\SalesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:59:52.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CarDealershipAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:56:05.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarDealerShipContext.cs",
+              "DocumentMoniker": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Data\\CarDealerShipContext.cs",
+              "RelativeDocumentMoniker": "CarDealershipAPI\\Data\\CarDealerShipContext.cs",
+              "ToolTip": "C:\\Users\\analista.desarrollo\\Desktop\\GIT\\CarDealershipAPI\\CarDealershipAPI\\Data\\CarDealerShipContext.cs",
+              "RelativeToolTip": "CarDealershipAPI\\Data\\CarDealerShipContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:50:41.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
